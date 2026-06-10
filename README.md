@@ -1,5 +1,5 @@
 # Hi there! I'm Irene 👋
-I recently graduated with a BS in Computer Science (June 2026). I am a problem solver that likes building things to help people. My builds use security principles and clean design.
+I graduated in June 2026 with a BS in Computer Science. I'm a problem solver who builds things to help people.
 
 ## Skills
 - Python
@@ -24,7 +24,4 @@ I recently graduated with a BS in Computer Science (June 2026). I am a problem s
 - Sight Word Challenge
   - Command-line app cycling through over 250 sight words to keep new readers fresh over summer break
   - Built with Python on a microservices pattern.
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irenebuck)
 
