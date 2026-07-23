@@ -1,5 +1,5 @@
 # Hi there! I'm Irene 👋
-I graduated in June 2026 with a BS in Computer Science. I'm a problem solver who builds things to help people.
+I graduated in June 2026 with a BS in Computer Science, and now I'm on the hunt for a place where I can put that problem-solving energy to good use.
 
 ## Skills
 - Python
